@@ -59,21 +59,18 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "E-Commerce Analytics Pipeline",
       summary: "An end-to-end analytics ETL pipeline for an e-commerce platform.",
-      linkPreview: "/",
       linkSource: "https://github.com/TheVinh-Ha-1710/Ecommerce-Analytics-Pipeline",
       image: "/ecommerce.png",
     },
     {
       name: "Diabetes Prediction Machine Learning Model",
       summary: "A machine learning model to diagnose diabetes patients.",
-      linkPreview: "/",
       linkSource: "https://github.com/TheVinh-Ha-1710/Diabetes-Predictive-Model",
       image: "/predictive-modeling.png",
     },
     {
       name: "Global Fashion Retail Analysis",
       summary: "A sales performance analysis report on a global fashion retail franchise.",
-      linkPreview: "/",
       linkSource: "https://github.com/TheVinh-Ha-1710/Fashion-Retails-Sales-Report",
       image: "/analysis.png",
     },
